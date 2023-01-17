@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Other files:
+Mapbox_API_key.docx
+
 # C extensions
 *.so
 
