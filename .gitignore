@@ -5,6 +5,7 @@ __pycache__/
 
 #Other files:
 Mapbox_API_key.docx
+config.js
 
 # C extensions
 *.so
